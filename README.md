@@ -1,4 +1,4 @@
-# fintech
+# Fintech
 
 Master Science in Fintech - NYU 
 
